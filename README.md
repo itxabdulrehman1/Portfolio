@@ -1,4 +1,3 @@
-![Thumbnail ](itxabdulrehman1/Portfolio/abdulrehman/images/Thumbnail.png)
 
 # Abdul Rehman - Portfolio Website
 
